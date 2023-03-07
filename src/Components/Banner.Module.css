@@ -1,0 +1,66 @@
+.Banner {
+  display: flex;
+  align-items: center;
+  margin-top: 60px;
+}
+
+.Banner-text h1 {
+  font-size: 50px !important;
+  color: #026d74;
+}
+.Banner-text p {
+  font-size: 26px !important;
+  color: #1f3032;
+  line-height: 40px;
+  font-weight: 300;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+.div-spacer {
+  height: 40px;
+}
+
+.hdrbtn {
+  background-color: #026d74;
+  height: 48px;
+  border-radius: 40px;
+  font-size: 20px !important;
+  line-height: 31px;
+  padding-left: 32px;
+  padding-right: 32px;
+  letter-spacing: 0.1em;
+}
+.hdrbtn1 {
+  color: #026d74;
+  height: 48px;
+  border-radius: 40px;
+  border-style: solid;
+  border-color: #026d74;
+  font-size: 20px !important;
+  line-height: 31px;
+  padding-left: 32px;
+  padding-right: 32px;
+  letter-spacing: 0.1em;
+}
+
+.trial-para {
+  margin-top: 10px;
+  font-size: 13px !important;
+  font-weight: 300;
+  padding-left: 5px;
+}
+
+.Banner-text button {
+  margin-right: 20px;
+}
+
+.Banner-img {
+  justify-content: flex-end;
+  display: flex;
+}
+.Banner-img img {
+  position: relative;
+  display: block;
+  width: 530px;
+  top: -30px;
+}

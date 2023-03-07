@@ -1,0 +1,23 @@
+* {
+  font-size: 16px !important;
+}
+
+.navbar {
+  background-color: #fff !important;
+  box-shadow: 0 6px 20px 0 rgb(60 63 64 / 7%);
+}
+.navbar a {
+  color: #006d75;
+  cursor: pointer;
+}
+.btn_trial {
+  color: #fff !important;
+  background: #006d75 !important;
+  border-radius: 25px !important;
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+}
+.header-logo {
+  width: 100%;
+  height: 6vh;
+}

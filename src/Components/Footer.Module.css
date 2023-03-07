@@ -1,0 +1,111 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+.heading-list {
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+ul {
+  list-style: none;
+}
+
+ul li {
+  padding-bottom: 10px;
+}
+
+.list-link {
+  font-weight: 400;
+  text-decoration: none;
+  color: #2e384d;
+  text-transform: capitalize;
+  letter-spacing: 0.57px;
+  font-size: 16px;
+}
+
+hr {
+  color: #9b9b9b !important;
+}
+.icons {
+  /* float: right; */
+  padding-top: 60px;
+  padding-right: 20px;
+  display: flex;
+  justify-content: flex-end;
+  margin: auto;
+  align-items: center;
+}
+.fa-linkedin:hover {
+  color: #066d75;
+  cursor: pointer;
+}
+.fa-facebook:hover {
+  color: #3b5998;
+  cursor: pointer;
+}
+.fa-youtube:hover {
+  color: #c4302b;
+  cursor: pointer;
+}
+.fa-twitter:hover {
+  color: #00acee;
+  cursor: pointer;
+}
+.fa-brands {
+  font-size: 28px !important;
+}
+
+.icons-spacing {
+  padding-right: 30px;
+}
+
+.p-heading {
+  margin-bottom: 30px;
+  color: #2e384d;
+  font-size: 14px !important;
+  line-height: 1.5em;
+  font-weight: 300;
+}
+
+.rightsreserved {
+  background-color: #00464f;
+}
+
+.copyright {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 13vh;
+  color: #fff;
+}
+.copyright p {
+  margin: 0;
+  font-weight: 200;
+  font-size: 14px !important;
+}
+
+.copyright ul {
+  display: inline-flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-top: 5px;
+}
+
+.copyright li {
+  padding-right: 30px;
+  font-weight: 200;
+  font-size: 14px !important;
+  cursor: pointer;
+}
+.nameorg {
+  display: block;
+  text-align: center;
+  margin: 15px;
+  line-height: 24px;
+}
+.nameorg p {
+  font-size: 16px !important;
+  color: #2e384d;
+  font-weight: 300;
+}
